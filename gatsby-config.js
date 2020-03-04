@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: 'Frontend Master Gatsby Workshop',
-    description: 'A site we built together during a full-day Frontend Master Gatsby workshop'
+    title: 'Gatsby Workshop',
+    description: 'A site we built together during a full-day Gatsby workshop'
   },
   plugins: [
     'gatsby-plugin-emotion',
