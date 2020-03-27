@@ -25,7 +25,7 @@ const Header = () => (
     justify-content: space-between;
     padding: 0.5rem calc((100vw - 550px) / 2)
   `}>
-    <NavLink to='/' fontWeight='bold'>FEM workshop</NavLink>
+    <NavLink to='/' fontWeight='bold'>Vincent Nguyen</NavLink>
     <nav css={css`
       margin-top: 0;
     `}>
