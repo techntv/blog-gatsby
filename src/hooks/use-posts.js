@@ -8,7 +8,8 @@ const usePosts = () => {
         frontmatter{
           title,
           slug,
-          author
+          author,
+          description
           image {
             sharp: childImageSharp {
               fluid (
