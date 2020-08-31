@@ -9,7 +9,6 @@ const usePosts = () => {
           title,
           slug,
           author,
-          description
           image {
             sharp: childImageSharp {
               fluid (
